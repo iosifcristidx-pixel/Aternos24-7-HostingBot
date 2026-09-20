@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": Faraonvbv.aternos.me:11866,
+    "port": 11866,
     "version": "",
     "try-creative": false
   },
